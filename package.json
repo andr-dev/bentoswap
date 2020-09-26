@@ -1,0 +1,25 @@
+{
+  "name": "bentoswap",
+  "version": "1.0.0",
+  "description": "BentoSwap Smart Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andr-dev/bentoswap.git"
+  },
+  "author": "Andre Benedito",
+  "license": "SEE LICENSE IN <LICENSE.md>",
+  "bugs": {
+    "url": "https://github.com/andr-dev/bentoswap/issues"
+  },
+  "homepage": "https://github.com/andr-dev/bentoswap#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
