@@ -21,5 +21,8 @@
   "homepage": "https://github.com/andr-dev/bentoswap#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^3.2.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.6"
   }
 }
